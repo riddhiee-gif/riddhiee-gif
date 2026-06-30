@@ -24,8 +24,8 @@
 ```java
 public class Riddhi {
 
-    String name     = "Riddhi Kumari";
-    String college  = "Dronacharya College of Engineering";
+    String name     = "Kumari Riddhi";
+    String college  = "Dronacharya Group of Institutions";
     String degree   = "B.Tech CSE (AKTU)";
     double cgpa     = 8.03;
     String role     = "Aspiring AI/Software Engineer";
