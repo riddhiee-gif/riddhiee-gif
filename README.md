@@ -4,11 +4,16 @@
 
 </div>
 
----
-
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Java+Developer+%F0%9F%92%BB;DSA+Enthusiast+%F0%9F%94%A5;AI+%26+Cybersecurity+Explorer+%F0%9F%9B%A1%EF%B8%8F;Open+Source+Contributor+%F0%9F%8C%9F;Always+Learning+%E2%9C%A8)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=riddhiee-gif&label=Profile%20views&color=A855F7&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/riddhiee-gif?label=Followers&style=for-the-badge&color=A855F7)
 
 </div>
 
@@ -26,8 +31,7 @@ public class Riddhi {
     String role     = "Aspiring AI/Software Engineer";
 
     String[] skills = {
-        "Java", "OOP", "DSA",
-        "Spring Boot", "Cybersecurity"
+        "Java", "OOP", "DSA", "Cybersecurity"
     };
 
     String[] currentlyLearning = {
@@ -52,8 +56,7 @@ public class Riddhi {
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🛠️ Frameworks & Tools
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+### 🛠️ Tools & Platforms
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
@@ -103,6 +106,19 @@ public class Riddhi {
 
 <div align="center">
 
+<table>
+<tr>
+<td align="center"><b>✅ Total Solved</b><br><h2>91</h2>Problems</td>
+<td align="center"><b>📨 Submissions</b><br><h2>112</h2></td>
+<td align="center"><b>🎯 Acceptance</b><br><h2>93.8%</h2></td>
+<td align="center"><b>👏 Beats</b><br><h2>77.8%</h2></td>
+</tr>
+</table>
+
+![Easy](https://img.shields.io/badge/Easy-62-00B8A3?style=for-the-badge)
+![Medium](https://img.shields.io/badge/Medium-24-FFC01E?style=for-the-badge)
+![Hard](https://img.shields.io/badge/Hard-5-FF375F?style=for-the-badge)
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/riddhiee-gif?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=20)
 
 </div>
@@ -118,7 +134,7 @@ public class Riddhi {
 | 🎓 NPTEL Java Programming | **87% Score** — IIT Kharagpur |
 | 🎓 NPTEL Yoga & Psychology | Certified — IIT |
 | 🏆 Top 10 Every Semester | B.Tech CSE — AKTU |
-| 💻 LeetCode | 72 Problems — 97.6% Acceptance |
+| 💻 LeetCode | 91 Problems Solved — 93.8% Acceptance |
 | 📸 Student Coordinator | Dron Pratibimb 4.0 — National Hackathon |
 
 </div>
@@ -159,10 +175,10 @@ public class Riddhi {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kumari-riddhi-03420327)
+[![LinkedIn](https://img.shields.io/badge/kinsii__-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kumari-riddhi-003420327/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/riddhiee-gif)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/riddhiee-gif)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riddhi060206@gmail.com)
 
 </div>
 
@@ -170,8 +186,10 @@ public class Riddhi {
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=riddhiee-gif&label=Profile%20views&color=A855F7&style=for-the-badge)
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
 
 </div>
+
+
+
+
