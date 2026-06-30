@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20There!%20I'm%20Riddhi%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=B.Tech%20CSE%20Student%20|%20Java%20Developer%20|%20AI%20Enthusiast&descAlignY=55&descSize=16"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=180&section=header&text=Hi%20There!%20I'm%20Riddhi%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=B.Tech%20CSE%20Student%20|%20Java%20Developer%20|%20AI%20Enthusiast&descAlignY=55&descSize=16"/>
 
 </div>
 
@@ -24,7 +24,7 @@
 ```java
 public class Riddhi {
 
-    String name     = "Riddhi Kumari";
+    String name     = "Kumari Riddhi";
     String college  = "Dronacharya College of Engineering";
     String degree   = "B.Tech CSE (AKTU)";
     double cgpa     = 8.03;
@@ -66,7 +66,7 @@ public class Riddhi {
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🔐 Areas of Interest
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-FF0000?style=for-the-badge&logo=hackthebox&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![AI/ML](https://img.shields.io/badge/AI%2FML-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![DSA](https://img.shields.io/badge/DSA-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
 
@@ -106,20 +106,7 @@ public class Riddhi {
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center"><b>✅ Total Solved</b><br><h2>91</h2>Problems</td>
-<td align="center"><b>📨 Submissions</b><br><h2>112</h2></td>
-<td align="center"><b>🎯 Acceptance</b><br><h2>93.8%</h2></td>
-<td align="center"><b>👏 Beats</b><br><h2>77.8%</h2></td>
-</tr>
-</table>
-
-![Easy](https://img.shields.io/badge/Easy-62-00B8A3?style=for-the-badge)
-![Medium](https://img.shields.io/badge/Medium-24-FFC01E?style=for-the-badge)
-![Hard](https://img.shields.io/badge/Hard-5-FF375F?style=for-the-badge)
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/riddhiee-gif?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=20)
+<img src="leetcode-stats.svg" width="600"/>
 
 </div>
 
@@ -177,7 +164,7 @@ public class Riddhi {
 
 [![LinkedIn](https://img.shields.io/badge/kinsii__-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kumari-riddhi-003420327/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/riddhiee-gif)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/riddhiee-gif)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/kinsii__/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riddhi060206@gmail.com)
 
 </div>
@@ -186,10 +173,9 @@ public class Riddhi {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=100&section=footer&animation=twinkling"/>
 
 </div>
-
 
 
 
