@@ -1,5 +1,11 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=180&section=header&text=Hi%20There!%20I'm%20Riddhi%20👋&fontSize=40&fontColor=A855F7&animation=twinkling"/>
+
+</div>
+
+<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Java+Developer+%F0%9F%92%BB;DSA+Enthusiast+%F0%9F%94%A5;AI+%26+Cybersecurity+Explorer+%F0%9F%9B%A1%EF%B8%8F;Open+Source+Contributor+%F0%9F%8C%9F;Always+Learning+%E2%9C%A8)](https://git.io/typing-svg)
 
 </div>
@@ -18,7 +24,7 @@
 ```java
 public class Riddhi {
 
-    String name     = "Kumari Riddhi"
+    String name     = "Riddhi Kumari";
     String college  = "Dronacharya College of Engineering";
     String degree   = "B.Tech CSE (AKTU)";
     double cgpa     = 8.03;
@@ -142,7 +148,7 @@ public class Riddhi {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/kinsii__-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kumari-riddhi-003420327/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kumari-riddhi-003420327/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/riddhiee-gif)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/kinsii__/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riddhi060206@gmail.com)
@@ -158,3 +164,5 @@ public class Riddhi {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=100&section=footer&animation=twinkling"/>
 
 </div>
+
+
